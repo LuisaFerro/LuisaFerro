@@ -1,8 +1,8 @@
 ### Hey! I'm Luísa Ferro 👋
   
-  Sou estudante de Engenharia Mecatrônica na Universidade de Brasília. Tive um contato inicial com Python antes de minha graduação, contudo é a linguagem que mais me debruço e executo projetos até o presente momento. Entretanto, também estudei HTML, CSS e JS, além de ter contato com C (em primazia para a programação em arduino). 
+  Sou estudante de Engenharia Mecatrônica na Universidade de Brasília. Contudo, antes de minha graduação, tive um contato inicial com Python, que por sua vez é a linguagem que mais me debruço e executo projetos até o presente momento. Porém, também tenho contato com C (em primazia para a programação em arduino), além de prévios estudos em HTML, CSS e JS.
 
- I'm pursuing a Mechatronics major at The University of Brasilia. The first programming language I had contact with was python, in which I still implement most of my projects. Nevertheless, I've been studying other tools, such as HTML, CSS, JS and also C (generally along projects using Arduino Board).
+ I'm pursuing a Mechatronics major at The University of Brasilia. Python was the first programming language I had contact with, in which I still implement most of my projects. Nevertheless, I've been studying other tools, such as HTML, CSS, JS and also C (generally along projects using Arduino Board).
 
  
   <div style="display: inline_block"><br>
