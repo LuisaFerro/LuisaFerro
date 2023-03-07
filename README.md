@@ -10,12 +10,12 @@
   <img align="right" alt="Lu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Lu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Lu-C" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  
+  <img align="right" alt="Lu-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">  
 
 </div>
 
   
-- 🔭 I’m currently working on python and C
+- 🔭 I’m currently working on python and C++
 - 📝Brazilian Lattes: [Luísa Ferro](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1188011A1&tokenCaptchar=03AGdBq27UNhCKUlcrbwth9-q8CvIgxI5gWhrZQVPQNbkq7naqUtre0v8ddoOVk2y01LoDwaUhpwdKETFGN2XrBx8wVEXgbc-hX8DvA-RHoWxgp7WR_1b24TAMYV7WfYMntux0gnV5vEWxSln8wzVhd2ic6Kt8t3OshXo1xB2IewC-EhsvFuV5Z9cT_Fr2vrgS4_sWwoIdcgmrvp_VVYkgYegUWElNOtmiW-Zivyo9SIpOcCcw40rsNPXXlduVmY9jxexQ6eF7-awq78W0K4VD-iM-WOifNsv9I6KM9YkCN-347wPXEaQ24itWS-nEnACJsT0C-irEYe5Ww82av5GhUCru8Tuc0BXC3K758qG6pO54tSdfA40EBT-jhOVvUpFGOOewqK-u3bFVKG-EfNOR8gHe5Hm1hm_4N5M-H3H4plzqoo6hfTuDfH733dO-x2CDOb-rpwNYLCk-ux9Movo2nPyc7hdqpXmUR-UT9DGqtqGhQAKnAEbg41yXWYOogmQ-JvHNsbGV7tlWWORFD_09T-XZYAWp1sywIQ)
 - 📫 email: [luisaferro9@gmail.com](mailto:luisaferro9@gmail.com)
 
